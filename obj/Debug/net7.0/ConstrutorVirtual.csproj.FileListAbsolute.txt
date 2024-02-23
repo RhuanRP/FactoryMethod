@@ -1,0 +1,14 @@
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\ConstrutorVirtual\bin\Debug\net7.0\ConstrutorVirtual.exe
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\ConstrutorVirtual\bin\Debug\net7.0\ConstrutorVirtual.deps.json
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\ConstrutorVirtual\bin\Debug\net7.0\ConstrutorVirtual.runtimeconfig.json
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\ConstrutorVirtual\bin\Debug\net7.0\ConstrutorVirtual.dll
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\ConstrutorVirtual\bin\Debug\net7.0\ConstrutorVirtual.pdb
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\ConstrutorVirtual\obj\Debug\net7.0\ConstrutorVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\ConstrutorVirtual\obj\Debug\net7.0\ConstrutorVirtual.AssemblyInfoInputs.cache
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\ConstrutorVirtual\obj\Debug\net7.0\ConstrutorVirtual.AssemblyInfo.cs
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\ConstrutorVirtual\obj\Debug\net7.0\ConstrutorVirtual.csproj.CoreCompileInputs.cache
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\ConstrutorVirtual\obj\Debug\net7.0\ConstrutorVirtual.dll
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\ConstrutorVirtual\obj\Debug\net7.0\refint\ConstrutorVirtual.dll
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\ConstrutorVirtual\obj\Debug\net7.0\ConstrutorVirtual.pdb
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\ConstrutorVirtual\obj\Debug\net7.0\ConstrutorVirtual.genruntimeconfig.cache
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\ConstrutorVirtual\obj\Debug\net7.0\ref\ConstrutorVirtual.dll
